@@ -1,4 +1,4 @@
-![Imagem de apresentação](URL da imagem)
+![Imagem de apresentação](images/fullstack_dev.png)
 
 <h3>Olá, como vai? Eu sou o Lucas Belluzi ☕</h3>
 Desenvolvedor Full Stack | UI/UX Designer | Apaixonado por tecnologia, criação e inovação.
@@ -26,6 +26,9 @@ Desenvolvedor Full Stack | UI/UX Designer | Apaixonado por tecnologia, criação
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<!--GitHub Stats-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belluzi&show_icons=true&theme=github_dark)
+
 <hr/>
 
 <h3>Projetos em Destaque 📌</h3>
@@ -36,11 +39,14 @@ Desenvolvedor Full Stack | UI/UX Designer | Apaixonado por tecnologia, criação
 
 <hr/>
 
-<h3>Contato 📬</h3>
+<h3>Entre em Contato! 📬</h3>
 
-📧 Email: [lucasdejesusoliveirabelluzi@gmail.com](mailto:lucasdejesusoliveirabelluzi@gmail.com)<br/>
-💼 LinkedIn: [linkedin.com/in/lucasbelluzi](https://www.linkedin.com/in/lucasbelluzi/)<br/>
-📂 Portfólio: [seusite.com](https://www.behance.net/gallery/191973903/My-Creative-Portfolio)<br/>
+<div>
+  <a href = "mailto:lucasdejesusoliveirabelluzi@gmail.com"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasbelluzi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lucasbelluzi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/lucasbelluzi" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+</div>
 
 <hr/>
 
