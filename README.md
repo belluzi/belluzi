@@ -5,26 +5,29 @@ Desenvolvedor Full Stack | UI/UX Designer | Apaixonado por tecnologia, criação
 
 <hr/>
 
-<h3>Sobre mim 🛠️</h3>
-💻 Graduado em <b>Informática para Negócios</b> pela FATEC.<br>
-📚 Pós-graduando em <b>UI/UX Design</b> no SENAC.<br>
-🎯 Experiência prática adquirida em projetos autônomos e cursos especializados.<br>
+### Sobre mim 🛠️
+>💻 Graduado em ```Informática para Negócios``` pela FATEC.<br/>
+>📚 Pós-graduando em ```UI/UX Design``` no SENAC.<br/>
+>🎯 Experiência prática adquirida em projetos autônomos e cursos especializados.<br/>
 
 <hr/>
 
 <h3>Tecnologias & Ferramentas 🚀</h3>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)<br/>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height=40px width=40px/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height=40px width=40px/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=40px width=40px/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=40px width=40px/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=40px width=40px/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=40px width=40px/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height=40px width=40px/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height=40px width=40px/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=40px width=40px/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height=40px width=40px/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=40px width=40px/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height=40px width=40px/></a>
+</div><br/>
 
 <!--GitHub Stats-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belluzi&show_icons=true&theme=github_dark)
@@ -33,9 +36,9 @@ Desenvolvedor Full Stack | UI/UX Designer | Apaixonado por tecnologia, criação
 
 <h3>Projetos em Destaque 📌</h3>
 
-🔹 [**Aplicativo de Finanças**](https://github.com/seu-usuario/projeto-x) - Aplicativo de controle de despesas, criado com JavaScript.<br/>
-🔹 [**Calculadora**](https://github.com/seu-usuario/projeto-y) - Aplicativo Web de Calculadora criado com JavaScript e Bootstrap.<br/>
-🔹 [**Finans**](https://github.com/seu-usuario/finans) - Landing page de um aplicativo de finanças utilizando Bootstrap.<br/>
+>🔹 [**Aplicativo de Finanças**](https://github.com/seu-usuario/projeto-x) - *Aplicativo de controle de despesas, criado com JavaScript.*<br/>
+>🔹 [**Calculadora**](https://github.com/seu-usuario/projeto-y) - *Aplicativo Web de Calculadora criado com JavaScript e Bootstrap.*<br/>
+>🔹 [**Finans**](https://github.com/seu-usuario/finans) - *Landing page de um aplicativo de finanças utilizando Bootstrap.*<br/>
 
 <hr/>
 
