@@ -23,6 +23,8 @@ Desenvolvedor Full Stack | UI/UX Designer | Apaixonado por tecnologia, criação
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=40px width=40px/></a>
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height=40px width=40px/></a>
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height=40px width=40px/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=40px width=40px/></a>
+  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height=40px width=40px/></a>
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=40px width=40px/></a>
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height=40px width=40px/></a>
   <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=40px width=40px/></a>
