@@ -38,7 +38,7 @@ Desenvolvedor Full Stack | UI/UX Designer | Apaixonado por tecnologia, criação
 
 <h3>Projetos em Destaque 📌</h3>
 
->🔹 [**Aplicativo de Finanças**](https://github.com/belluzi/projeto-finans) - *Aplicativo de controle de despesas, criado com JavaScript.*<br/>
+>🔹 [**Aplicativo de Orçamento Pessoal**](https://github.com/belluzi/app-orcamento-pessoal) - *Aplicativo de controle de despesas, criado com JavaScript.*<br/>
 >🔹 [**Calculadora**](https://github.com/belluzi/app-calculadora) - *Aplicativo Web de Calculadora criado com JavaScript e Bootstrap.*<br/>
 >🔹 [**Finans**](https://github.com/belluzi/projeto-finans) - *Landing page de um aplicativo de finanças utilizando Bootstrap.*<br/>
 
