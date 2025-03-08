@@ -9,7 +9,7 @@ Desenvolvedor Full Stack | UI/UX Designer | Apaixonado por tecnologia, criação
 >💻 Graduado em ```Informática para Negócios``` pela FATEC.<br/>
 >📚 Pós-graduando em ```UI/UX Design``` no SENAC.<br/>
 >🎯 Experiência prática adquirida em projetos autônomos e cursos especializados.<br/>
-
+>📄 Você pode acessar meu ```currículo``` por [aqui!](https://drive.google.com/file/d/1uxRYReMCb6___RiyXwGz-fk57in5Nybo/view?usp=sharing)<br/>
 <hr/>
 
 <h3>Tecnologias & Ferramentas 🚀</h3>
