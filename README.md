@@ -1,6 +1,6 @@
 ![Presentation image](images/fullstack_dev.png)
 
-Choose the language | [Portuguese](https://github.com/belluzi/belluzi/blob/main/README-ptbr.md) | [English](https://github.com/belluzi/belluzi/blob/main/README.md)
+Choose the language  |  [Portuguese](https://github.com/belluzi/belluzi/blob/main/README-ptbr.md)  |  [English](https://github.com/belluzi/belluzi/blob/main/README.md)
 
 <h3>Hello, how are you? I'm Lucas Belluzi ☕</h3>
 Full Stack Developer | UI/UX Designer | Passionate about technology, creation and innovation.
