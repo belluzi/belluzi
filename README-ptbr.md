@@ -1,5 +1,7 @@
 ![Imagem de apresentação](images/fullstack_dev.png)
 
+Escolha o idioma:  |  [Português](https://github.com/belluzi/belluzi/blob/main/README-ptbr.md)  |  [English](https://github.com/belluzi/belluzi/blob/main/README.md)
+
 <h3>Olá, como vai? Eu sou o Lucas Belluzi ☕</h3>
 Desenvolvedor Full Stack | UI/UX Designer | Apaixonado por tecnologia, criação e inovação.
 
