@@ -1,56 +1,113 @@
 ![Presentation image](images/fullstack_dev.png)
 
-Choose the language  |  [Portuguese](https://github.com/belluzi/belluzi/blob/main/README-ptbr.md)  |  [English](https://github.com/belluzi/belluzi/blob/main/README.md)
+Choose the language | [Portuguese](https://github.com/belluzi/belluzi/blob/main/README-ptbr.md) | [English](https://github.com/belluzi/belluzi/blob/main/README.md)
 
-<h3>Hello, how are you? I'm Lucas Belluzi ☕</h3>
-Full Stack Developer | UI/UX Designer | Passionate about technology, creation and innovation.
+<h2>Hi, I'm Lucas Belluzi ☕</h2>
 
-<hr/>
+**Software Developer @ Sifra**  
+**C#/.NET • Python • Angular • SQL Server • MongoDB • REST APIs**
 
-### About me 🛠️
->💻 Graduated in ```Business IT``` from FATEC.<br/>
->📚 Postgraduate student in ```UI/UX Design``` at SENAC.<br/>
->🎯 Practical experience gained in independent projects and specialized courses.<br/>
->📄 You can access my ```resume``` [here!](https://drive.google.com/file/d/1uxRYReMCb6___RiyXwGz-fk57in5Nybo/view?usp=sharing)<br/>
+Developer focused on building, maintaining and evolving corporate systems, with practical experience in production environments, backend development, system integrations and software modernization.
 
 <hr/>
 
-<h3>Technologies & Tools 🚀</h3>
+## About Me
+
+💻 **Software Developer at Sifra**, working on the maintenance and evolution of corporate systems in production environments.
+
+⚙️ Experience with **C#, .NET, Windows Forms, Angular, SQL Server, MongoDB and Python (FastAPI)**, acting on backend development, APIs, integrations and business rules.
+
+🛠️ Daily work focused on:
+- Incident analysis and bug fixing
+- Maintenance of production systems
+- REST API development
+- Legacy system modernization
+- System integrations
+- Layered architecture and clean code practices
+
+📚 **Postgraduate student in Software Architecture, Data Science and Cybersecurity**
+
+🎓 Graduated in **Business IT (FATEC)**  
+🎨 Postgraduate degree in **UI/UX Design (SENAC)**
+
+<hr/>
+
+## Tech Stack & Tools
 
 <div>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height=40px width=40px/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=40px width=40px/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=40px width=40px/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=40px width=40px/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=40px width=40px/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height=40px width=40px/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=40px width=40px/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=40px width=40px/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=40px width=40px/></a>
-</div><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" width="40"/>
 
-<!--GitHub Stats-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belluzi&show_icons=true&theme=github_dark)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" width="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" width="40"/>
+</div>
+
+<br/>
+
+## Currently Improving
+
+- Software Architecture
+- Backend Engineering with .NET
+- REST APIs & Integrations
+- Python Services with FastAPI
+- System Modernization & Scalability
+- Clean Code & Best Practices
 
 <hr/>
 
-<h3>Highlighted Projects 📌</h3>
+## GitHub Stats
 
->🔹 [**Personal Budget App**](https://github.com/belluzi/app-orcamento-pessoal) - *Expense control application, created with JavaScript.*<br/>
->🔹 [**Calculadora**](https://github.com/belluzi/app-calculadora) - *Calculator web application created with JavaScript and Bootstrap.*<br/>
->🔹 [**Finans**](https://github.com/belluzi/projeto-finans) - *Landing page for a finance application using Bootstrap.*<br/>
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=belluzi&show_icons=true&theme=github_dark)
 
 <hr/>
 
-<h3>Get in touch! 📬</h3>
+## Featured Projects
+
+🔹 **Personal Budget App**  
+Expense management application developed with JavaScript.
+
+🔹 **Python Backend API**  
+Backend services and API studies using Python.
+
+🔹 **.NET Projects**  
+Studies and practical projects focused on APIs, backend and software architecture.
+
+> More professional and production-oriented repositories coming soon.
+
+<hr/>
+
+## Contact
 
 <div>
-  <a href = "mailto:lucasdejesusoliveirabelluzi@gmail.com"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucasbelluzi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/lucasbelluzi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/lucasbelluzi" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="mailto:lucasdejesusoliveirabelluzi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/lucasbelluzi/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://www.behance.net/lucasbelluzi" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
+  </a>
 </div>
 
 <hr/>
 
-⭐ **Take a look at my repositories and feel free to contribute or contact me!** 🚀
+⭐ Feel free to explore my repositories and connect with me.
