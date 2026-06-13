@@ -4,7 +4,7 @@ Escolha o idioma | [Português](https://github.com/belluzi/belluzi/blob/main/REA
 
 <h2>Olá, eu sou o Lucas Belluzi ☕</h2>
 
-**Software Developer @ Sifra**  
+**Software Developer**  
 **C#/.NET • Python • Angular • SQL Server • MongoDB • REST APIs**
 
 Desenvolvedor focado na construção, manutenção e evolução de sistemas corporativos, com experiência prática em ambientes de produção, desenvolvimento backend, integrações entre sistemas e modernização de aplicações.
@@ -13,7 +13,7 @@ Desenvolvedor focado na construção, manutenção e evolução de sistemas corp
 
 ## Sobre Mim 🛠️
 
-💻 **Software Developer no Grupo Sifra**, atuando na sustentação e evolução de sistemas corporativos em ambiente de produção.
+💻 **Software Developer**, atuando na sustentação e evolução de sistemas corporativos em ambiente de produção.
 
 ⚙️ Experiência com **C#, .NET, Windows Forms, Angular, SQL Server, MongoDB e Python (FastAPI)**, trabalhando com desenvolvimento backend, APIs REST, integrações entre sistemas e regras de negócio.
 
